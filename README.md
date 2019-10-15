@@ -105,7 +105,6 @@ Work on a Vue instance:
 | noDragWhenSingle | Boolean | Do not drag when there is only one swipe-item | true |
 | prevent | Boolean | `preventDefault` when touch start, useful for some lower version Android Browser (4.2, etc) | false |
 | propagation | Boolean | solve nesting | false |
-| disabled | Boolean | disabled user swipe item | false |
 
 ### Events
 
